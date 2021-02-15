@@ -1,2 +1,2 @@
 # Fire_Fighting_robot
-un projet de mecanique solide en utilisant Arduino
+C’est un robot de lutte contre l’incendie utilisant Arduino, qui pourrait se déplacer vers le feu et pomper de l’eau autour de celui-ci pour l’éteindre. 
